@@ -1,0 +1,22 @@
+[
+    {
+        "employee_id": "23",
+        "employee_name": "Muhammad jawad",
+        "employee_age": "21",
+        "employee_department": "It",
+        "employee_position": "Data scientist",
+        "employee_salary": "80000",
+        "employee_education": "Bs",
+        "employee_type": "Full time"
+    },
+    {
+        "employee_id": "21",
+        "employee_name": "Ahmed",
+        "employee_age": "18",
+        "employee_department": "Hr",
+        "employee_position": "Hr assistant",
+        "employee_salary": "40000",
+        "employee_education": "Bs",
+        "employee_type": "Full time"
+    }
+]
